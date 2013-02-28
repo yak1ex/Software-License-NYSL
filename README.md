@@ -16,6 +16,7 @@ However, threre are the following differences:
 
 - "No warranty" disclaimer is explicitly included.
 - Modified version of the software MUST be distributed under the responsibility of the distributer.
+- Official version is written in Japanese.
 
 # SEE ALSO
 
