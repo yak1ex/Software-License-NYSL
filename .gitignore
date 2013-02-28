@@ -1,0 +1,4 @@
+.build/
+Software-License-NYSL-*.tar.gz
+Software-License-NYSL-*/
+*.BAK
